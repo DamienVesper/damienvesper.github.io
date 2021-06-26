@@ -1,3 +1,9 @@
+<style>
+    html, body {
+        background-color: #000;
+    }
+</style>
+
 <!-- Amazing Title !-->
 <h1 align="center">DamienVesper</h1>
 
